@@ -1,4 +1,4 @@
-# C-Learning-plan
+# C++-Learning-plan
 # C++ Learning Roadmap: 30-Day Detailed Plan
 
 This document outlines a structured C++ learning plan from basic to advanced topics, including daily topics, curated video and website resources, practice ideas, and project suggestions. Use this as a guide to build your knowledge step-by-step.
